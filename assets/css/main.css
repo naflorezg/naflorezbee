@@ -1766,8 +1766,14 @@ input, select, textarea {
 
 		.image.left {
 			float: left;
-			margin: 0 2em 2em 0;
+			margin: 15em 0 0 0;
 		}
+
+		#hp {
+			float: right;
+			margin: 0 0 0 15px ;
+		}
+
 
 		.image.centered {
 			display: block;
